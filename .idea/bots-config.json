@@ -1,0 +1,15 @@
+{
+  "bots": [
+    {
+      "id": "17723915184680",
+      "name": "night_521",
+      "host": "mc.AngelGrief.net",
+      "port": "25565",
+      "version": "1.16.5",
+      "username": "night_521",
+      "password": "",
+      "autoJoin": false,
+      "interval": "0"
+    }
+  ]
+}
