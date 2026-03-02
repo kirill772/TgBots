@@ -2,6 +2,7 @@
 import { Telegraf, Markup } from 'telegraf'
 import mineflayer from 'mineflayer'
 import dotenv from 'dotenv'
+import express from 'express'  // 👈 ЭТА СТРОКА ОТСУТСТВУЕТ!
 
 dotenv.config()
 
