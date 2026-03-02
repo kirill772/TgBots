@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node tg.js"
   },
-{
   "dependencies": {
     "telegraf": "^4.16.3",
     "mineflayer": "^4.14.0",
